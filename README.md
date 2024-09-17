@@ -1,2 +1,2 @@
-# QAP1Sept16
+# Password Generator
 September 16th, QAP1
