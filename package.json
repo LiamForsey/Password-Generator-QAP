@@ -1,0 +1,14 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "pass-gen": "./index.js"
+  },
+  "author": "Liam Forsey",
+  "license": "MIT",
+  "description": "Code to Create a password (Password Generator)"
+}
